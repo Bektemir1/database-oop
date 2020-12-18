@@ -1,7 +1,7 @@
 # database-oop
 # Screenshots
 ![](screenshot/oop%201.png)
-![](screebshot/opp2.png)
-![](screebshot/opp3.png)
-![](screebshot/opp4.png)
-![](screebshot/opp5.png)
+![](screenshot/opp2.png)
+![](screenshot/opp3.png)
+![](screenshot/opp4.png)
+![](screenshot/opp5.png)
