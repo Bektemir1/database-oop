@@ -3,7 +3,7 @@
  Bektemir Kudaiberdiev <br/>
 Abdisalan Kayse Ahmed
 
-#  Demir bank ATM Management System
+#   Demir bank ATM Management System
  
  
 
