@@ -5,8 +5,8 @@ Abdisalan Kayse Ahmed
 
 #  Demir bank ATM Management System
  
-# First Feedback video
-# Second Feedbak video
+ 
+
 # Screenshot
 
 ![](screens/Screenshot%20from%202020-12-18%2019-32-13.png)   
