@@ -1,5 +1,10 @@
-This is group project that consist two people.
-# database-oop
+### This is group project that consist two people.
+
+Bektemir Kudaiberdiev
+Abdisalan Kayse Ahmed
+
+#  Demir bank ATM Management System
+ 
 # First Feedback video
 # Second Feedbak video
 # Screenshot
