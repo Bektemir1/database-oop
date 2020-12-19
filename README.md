@@ -5,8 +5,14 @@ Bektemir Kudaiberdiev <br/>
 Abdisalan Kayse Ahmed
 
 #   Demir bank ATM Management System
- 
- 
+
+# Presentation
+### https://youtu.be/yYEojufjdcs
+
+# Feedback 1
+### https://youtu.be/e8sqgPX7Exc
+# Feedback 2
+### https://youtu.be/gMsxEYMcTh8
 
 # Screenshot
 
