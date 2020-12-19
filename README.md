@@ -1,4 +1,4 @@
-### This is group project that consist two people.
+
 
  Bektemir Kudaiberdiev <br/>
 Abdisalan Kayse Ahmed
