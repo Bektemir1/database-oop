@@ -1,7 +1,7 @@
 ### This is group project that consist two people.
 
-Bektemir Kudaiberdiev
-Abdisalan Kayse Ahmed
+### Bektemir Kudaiberdiev.
+### Abdisalan Kayse Ahmed
 
 #  Demir bank ATM Management System
  
