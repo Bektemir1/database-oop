@@ -1,8 +1,7 @@
 
-<<<<<<< HEAD
-=======
 
- Bektemir Kudaiberdiev <br/>
+
+Bektemir Kudaiberdiev <br/>
 Abdisalan Kayse Ahmed
 
 #   Demir bank ATM Management System
@@ -19,4 +18,3 @@ Abdisalan Kayse Ahmed
 ![](screens/Screenshot%20from%202020-12-19%2014-01-53.png)   
 
 
->>>>>>> bektemir
